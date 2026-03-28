@@ -10,8 +10,11 @@ Full-Stack Developer specializing in Django, Express.js, and React, with a stron
 
 ## Tech Stack
   - **Backend :**
-  
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express" />
+        </a>
+      </p>
 
 <!--
 **mpyth0nist/mpyth0nist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
