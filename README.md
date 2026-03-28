@@ -1,16 +1,19 @@
 ## Hi I'm Oussama Aananouch 👋
-A Full-Stack Developer based in Rabat, Morocco.
-
-I like spending time solving challenging programming problems, I mainly use :
 
 
+Full-Stack Developer specializing in Django, Express.js, and React, with a strong passion for solving complex programming challenges.
 
+## 💡 What I Do
+- Build full-stack applications from scratch
+- Design RESTful APIs and backend systems
+- Solve complex programming problems with clean, maintainable code
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,nodejs,express,docker,vitest,git,linux,html,css)](https://skillicons.dev)
+## Tech Stack
+  - Backend : (https://skillicons.dev/icons?i=py,django,js,nodejs,express)(https://skillicons.dev)
+
 <!--
 **mpyth0nist/mpyth0nist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
