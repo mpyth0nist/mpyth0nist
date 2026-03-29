@@ -12,6 +12,18 @@ Full-Stack Developer specializing in Django, Express.js, and React, with a stron
   - **Backend :**
       <p align="center">
         <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=django,nodejs,express" />
+        </a>
+      </p>
+  - **Frontend :**
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,redux,tailwind,css" />
+        </a>
+      </p>
+  - **Backend :**
+      <p align="center">
+        <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express" />
         </a>
       </p>
