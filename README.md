@@ -21,13 +21,18 @@ Full-Stack Developer specializing in Django, Express.js, and React, with a stron
           <img src="https://skillicons.dev/icons?i=react,redux,tailwind,css" />
         </a>
       </p>
-  - **Backend :**
+  - **Databases :**
       <p align="center">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,django,js,nodejs,express" />
+          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
         </a>
       </p>
-
+  - **Tools :**
+      <p align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,git,vitest" />
+        </a>
+      </p>
 <!--
 **mpyth0nist/mpyth0nist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
