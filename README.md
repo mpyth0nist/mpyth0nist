@@ -3,7 +3,7 @@
 **Full-Stack & Applied AI Engineer** focused on building complete, reliable systems with solid backend fundamentals. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-aananouch)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aananouchwork@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Rabat%2C%20Morocco-blue?style=flat-square)
 
 ---
