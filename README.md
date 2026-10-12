@@ -1,37 +1,45 @@
-## Hi There 👋! I'm Oussama Aananouch 
+# Hi there, I'm Oussama Aananouch 👋
 
+**Full-Stack & Applied AI Engineer** focused on building complete, reliable systems with solid backend fundamentals. 
 
-Full-Stack Developer specializing in Django, Express.js, and React, with a strong passion for solving complex programming challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oussama-aananouch)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+![Location](https://img.shields.io/badge/Location-Rabat%2C%20Morocco-blue?style=flat-square)
 
-## 💡 What I Do
-- Build full-stack applications from scratch
-- Design RESTful APIs and backend systems
-- Solve complex programming problems with clean, maintainable code
+---
 
-## Tech Stack
-  - **Backend :**
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,js,django,nodejs,express" />
-        </a>
-      </p>
-  - **Frontend :**
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,redux,tailwind,css" />
-        </a>
-      </p>
-  - **Databases :**
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-        </a>
-      </p>
-  - **Tools :**
-      <p align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=docker,git,vitest" />
-        </a>
-      </p>
+### 🚀 Featured Projects
 
-⭐️ Open to opportunities, collaborations, and learning experiences
+#### 🎓 [Scholaria — Multi-Tenant LMS & Applied RAG Platform](https://github.com/mpyth0nist/scholaria)
+*Full-stack LMS featuring a multi-tenant RAG tutoring companion with database-level isolation and deterministic guardrails.*
+* **Vector Search & Isolation:** PostgreSQL + `pgvector` with HNSW indexing and strict database-level tenant filtering (`course_id`).
+* **Deterministic Guardrails & Caching:** Multi-layer pipeline featuring regex pre-filtering, course-scoped classification, and semantic vector caching (`< 0.05` cosine distance).
+* **Plumbing & Cockpit:** Asynchronous ingestion via Celery/Redis signals, real-time token streaming (SSE) to React 19/Redux, and single-command Docker Compose deployment backed by 38 `pytest` tests.
+
+#### 💬 **Orbit — Collaborative Operations & Discussion Platform**
+*Full-stack platform built with Node.js, Express, React, and PostgreSQL.*
+* **Data Modeling:** 15+ Prisma relational models with cascading integrity constraints and RBAC.
+* **Deterministic Search:** Native PostgreSQL full-text search using `tsvector` and GIN indexing.
+* **Testing & Deployment:** Automated integration testing with Jest/Supertest, deployed via Nixpacks.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,react,redux,tailwind,postgres,redis,docker,git,pytest" />
+</p>
+
+* **Backend & Systems:** Python (Django, DRF), Node.js (Express), Celery, Redis, REST APIs, RBAC
+* **AI & Search:** RAG, PostgreSQL (`pgvector`, HNSW Indexing), SentenceTransformers, Full-Text Search (`tsvector`/GIN), Semantic Caching
+* **Frontend & UX:** React.js, Redux Toolkit, TailwindCSS, Server-Sent Events (SSE), KaTeX/Markdown Rendering
+* **DevOps & Quality:** Docker, Docker Compose, Pytest, GitHub Actions, Linux
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mpyth0nist&show_icons=true&theme=radical&hide_border=true" alt="Oussama's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpyth0nist&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</p>
