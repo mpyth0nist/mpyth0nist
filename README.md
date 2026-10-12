@@ -31,8 +31,8 @@
 </p>
 
 * **Backend & Systems:** Python (Django, DRF), Node.js (Express), Celery, Redis, REST APIs, RBAC
-* **AI & Search:** RAG, PostgreSQL (`pgvector`, HNSW Indexing), SentenceTransformers, Full-Text Search (`tsvector`/GIN), Semantic Caching
-* **Frontend & UX:** React.js, Redux Toolkit, TailwindCSS, Server-Sent Events (SSE), KaTeX/Markdown Rendering
+* **AI & Search:** RAG, PostgreSQL (`pgvector`, HNSW Indexing), SentenceTransformers, Semantic Caching
+* **Frontend & UX:** React.js, Redux Toolkit, TailwindCSS
 * **DevOps & Quality:** Docker, Docker Compose, Pytest, GitHub Actions, Linux
 
 ---
