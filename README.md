@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 #### 🎓 [Scholaria — Multi-Tenant LMS & Applied RAG Platform](https://github.com/mpyth0nist/scholaria)
 *Full-stack LMS featuring a multi-tenant RAG tutoring companion with database-level isolation and deterministic guardrails.*
