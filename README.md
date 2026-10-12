@@ -37,9 +37,3 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mpyth0nist&show_icons=true&theme=radical&hide_border=true" alt="Oussama's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpyth0nist&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
